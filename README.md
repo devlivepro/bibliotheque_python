@@ -5,7 +5,7 @@ Lancement de la console pour le projet localhost : python manage.py runserver
 
 Python Interpreter : 3.12
 
-Site : http://127.0.0.1:8000/
+Url site : http://127.0.0.1:8000/
 
 Url bibliotheque : 
 http://127.0.0.1:8000/bibliotheque/ 
